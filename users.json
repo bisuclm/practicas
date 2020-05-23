@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "maria",
+        "orders":[1,2],
+        "email": "mariwiwi@wiwi.es"
+
+        
+    },
+    {
+        "id":2,
+        "name": "enrique",
+        "orders":[3,4],
+        "email": "enriwiwi@wiwi.es"
+    },
+    {
+        "id":3,
+        "name": "geriwiwi",
+        "orders":[5],
+        "email": "wiwi@wiwi.es"
+    }
+]

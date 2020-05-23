@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "galaxy s8",
+        "precio": 231.00,
+        "información": "teléfono de 8a versión del telefono estrella de samsung"
+
+        
+    },
+    {
+        "id":2,
+        "name": "galaxy s9",
+        "precio": 431.00,
+        "información": "teléfono de 9a versión del telefono estrella de samsung"
+    },
+    {
+        "id":3,
+        "name": "galaxy s10",
+        "precio": 631.00,
+        "información": "teléfono de 10a versión del telefono estrella de samsung"
+    }
+]

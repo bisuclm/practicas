@@ -1,0 +1,24 @@
+{
+  "name": "practice-3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-redis": "^4.0.4",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "http-errors": "~1.6.3",
+    "mongodb": "^3.5.7",
+    "morgan": "^1.9.1",
+    "redis": "^3.0.2",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
